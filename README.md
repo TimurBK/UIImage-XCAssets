@@ -6,4 +6,8 @@ Adds convenience methods to UIImage to get launch image if they are from xcasset
 Installation
 ================
 
-Currently only drag-and-drop way. Podspec is on the way. 
+This category is available via [CocoaPods](http://cocoapods.org/). Add the following line to your podfile:
+
+      pod 'UIImage+AssetLaunchImage', '~> 1.0.1'
+      
+Alternatively just drag&drop files to your project.
